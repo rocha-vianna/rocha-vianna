@@ -4,7 +4,7 @@
 - ✈ Em transição para a área de Análise de Dados e BI
 - 🎓 Graduando em Tecnologia de Banco de Dados em 12/2023
 - 📚 Conhecimentos sólidos em SQL, Excel e Power BI
-- 🎯 Certificado com Analista de Dados Associado pela Data Camp
+- 🎯 Certificado como Analista de Dados Associado pela Data Camp
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
