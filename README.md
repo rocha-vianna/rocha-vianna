@@ -1,5 +1,9 @@
 ### Olá, sou o João Rocha Vianna 👋
 
+<div>
+  <a href = "https://rocha-vianna.github.io/rochavianna.github.io/"><img src="https://forthebadge.com?primaryBGColor=%2331C4F3&primaryTextColor=%23FFFFFF&secondaryBGColor=%23389AD5&secondaryTextColor=%23FFFFFF&tertiaryBGColor=%232674A4&tertiaryTextColor=%23FFFFFF&primaryLabel=view&secondaryLabel=portfolio&tertiaryLabel=&panels=2#/generator" target="_blank"></a>
+</div>
+
 - 🔭 Atualmente trabalhando como Desenvolvedor Oracle Cloud
 - ✈ Em transição para a área de Análise de Dados e BI
 - 🎓 Graduando em Tecnologia de Banco de Dados em 12/2023
