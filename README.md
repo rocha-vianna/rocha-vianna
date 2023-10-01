@@ -2,7 +2,7 @@
 
 <div>
   <a href = "https://rocha-vianna.github.io/rochavianna.github.io/"><img src="https://svgshare.com/i/y6v.svg" target="_blank"></a>
-</div>
+</div><br>
 
 - 🔭 Atualmente trabalhando como Desenvolvedor Oracle Cloud
 - ✈ Em transição para a área de Análise de Dados e BI
