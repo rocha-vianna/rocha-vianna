@@ -5,10 +5,10 @@
 </div><br>
 
 - 🔭 Atualmente trabalhando como Desenvolvedor Oracle Cloud
-- ✈ Em transição para a área de Análise de Dados e BI
-- 🎓 Graduando em Tecnologia de Banco de Dados em 12/2023
+- ✈ Em transição para a área de Análise de Dados
+- 🎓 Graduado em Tecnologia de Banco de Dados
 - 📚 Conhecimentos sólidos em SQL, Excel e Power BI
-- 🎯 Certificado como Analista de Dados Associado pela Data Camp
+- 🎯 Certificado como Analista de Dados pela Data Camp
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>
