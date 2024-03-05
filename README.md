@@ -1,9 +1,9 @@
 ### Olá, sou o João Rocha Vianna - Analista de Dados 👋
 
-- 🔭 Atualmente trabalhando como Desenvolvedor Oracle Cloud
+- 🔭 Atualmente trabalhando como Analista Oracle Cloud
 - ✈ Em transição para a área de Análise de Dados
 - 🎓 Graduado em Tecnologia de Banco de Dados
-- 📚 Conhecimentos sólidos em SQL, Excel e Power BI
+- 📚 Conhecimentos sólidos em SQL, Excel, Power BI e Python
 - 🎯 Certificado como Analista de Dados pela Data Camp
 - 😄 Pronomes: ele/dele
 
