@@ -1,8 +1,4 @@
-### Olá, sou o João Rocha Vianna 👋
-
-<div>
-  <a href = "https://rocha-vianna.github.io/rochavianna.github.io/"><img src="https://svgshare.com/i/y6v.svg" target="_blank"></a>
-</div><br>
+### Olá, sou o João Rocha Vianna - Analista de Dados 👋
 
 - 🔭 Atualmente trabalhando como Desenvolvedor Oracle Cloud
 - ✈ Em transição para a área de Análise de Dados
@@ -30,6 +26,12 @@
 </div>
 
 <!--
+
+<div>
+  <a href = "https://rocha-vianna.github.io/rochavianna.github.io/"><img src="https://svgshare.com/i/y6v.svg" target="_blank"></a>
+</div><br>
+
+
 **rocha-vianna/rocha-vianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
