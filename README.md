@@ -19,7 +19,6 @@
 <div> 
   <a href = "mailto:jobs.rochavianna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rochavianna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://www.datacamp.com/portfolio/jobsrochavianna"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" target="_blank"></a>
   <a href = "https://medium.com/@rocha.vianna12"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   
 </div>
@@ -30,6 +29,7 @@
   <a href = "https://rocha-vianna.github.io/rochavianna.github.io/"><img src="https://svgshare.com/i/y6v.svg" target="_blank"></a>
 </div><br>
 
+<a href = "https://www.datacamp.com/portfolio/jobsrochavianna"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" target="_blank"></a>
 
 **rocha-vianna/rocha-vianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
